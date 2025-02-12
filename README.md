@@ -186,7 +186,7 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
     <tr>
         <td> <img src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/13600976/224d547a-6fbc-47c8-859f-aa14813e2b0f" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/chatbox/README.md">OllamaSpring</a> </td>
-        <td> OllamaSpring is a macOS desktop client for multiple LLM models that can run DeepSeek locally or be accessed via the official API. </td>
+        <td> OllamaSpring is a macOS desktop client for multiple LLM models that can run DeepSeek locally or be accessed via the official API</td>
     </tr>
     
 </table>
